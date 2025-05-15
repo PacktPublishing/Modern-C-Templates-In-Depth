@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="E:\Work\Test\Test\Source.cpp" Label="Source.cpp" Background="#FF0000" NumIncludes="2" NumUniqueTransitiveChildren="95" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iostream" Label="iostream" Background="#FF0505" NumIncludes="1" NumUniqueTransitiveChildren="93" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\istream" Label="istream" Background="#FF0808" NumIncludes="1" NumUniqueTransitiveChildren="92" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ostream" Label="ostream" Background="#FF0B0B" NumIncludes="1" NumUniqueTransitiveChildren="91" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ios" Label="ios" Background="#FF0D0D" NumIncludes="1" NumUniqueTransitiveChildren="90" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Label="xlocnum" Background="#FF1010" NumIncludes="4" NumUniqueTransitiveChildren="89" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits" Label="climits" Background="#FFD9D9" NumIncludes="2" NumUniqueTransitiveChildren="14" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" Label="yvals.h" Background="#FFDFDF" NumIncludes="3" NumUniqueTransitiveChildren="12" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h" Label="yvals_core.h" Background="#FFECEC" NumIncludes="2" NumUniqueTransitiveChildren="7" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h" Label="xkeycheck.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h" Label="crtdefs.h" Background="#FFF2F2" NumIncludes="2" NumUniqueTransitiveChildren="5" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" Label="vcruntime.h" Background="#FFF7F7" NumIncludes="2" NumUniqueTransitiveChildren="3" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\sal.h" Label="sal.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h" Label="concurrencysal.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vadefs.h" Label="vadefs.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h" Label="corecrt.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h" Label="crtdbg.h" Background="#FFFAFA" NumIncludes="1" NumUniqueTransitiveChildren="2" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h" Label="vcruntime_new_debug.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h" Label="vcruntime_new.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\use_ansi.h" Label="use_ansi.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits.h" Label="limits.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath" Label="cmath" Background="#FFE4E4" NumIncludes="2" NumUniqueTransitiveChildren="10" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib" Label="cstdlib" Background="#FFECEC" NumIncludes="2" NumUniqueTransitiveChildren="7" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Label="stdlib.h" Background="#FFF4F4" NumIncludes="3" NumUniqueTransitiveChildren="4" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h" Label="corecrt_malloc.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h" Label="corecrt_search.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h" Label="stddef.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h" Label="corecrt_wstdlib.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h" Label="math.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h" Label="corecrt_math.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h" Label="xtgmath.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtr1common" Label="xtr1common" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdio" Label="cstdio" Background="#FFF7F7" NumIncludes="1" NumUniqueTransitiveChildren="3" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h" Label="stdio.h" Background="#FFFAFA" NumIncludes="1" NumUniqueTransitiveChildren="2" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h" Label="corecrt_wstdio.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h" Label="corecrt_stdio_config.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\streambuf" Label="streambuf" Background="#FF6363" NumIncludes="1" NumUniqueTransitiveChildren="58" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" Label="xiosbase" Background="#FF6666" NumIncludes="3" NumUniqueTransitiveChildren="57" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Label="xlocale" Background="#FF7676" NumIncludes="6" NumUniqueTransitiveChildren="51" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstring" Label="cstring" Background="#FFEFEF" NumIncludes="1" NumUniqueTransitiveChildren="6" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" Label="string.h" Background="#FFF2F2" NumIncludes="2" NumUniqueTransitiveChildren="5" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h" Label="corecrt_memory.h" Background="#FFF7F7" NumIncludes="1" NumUniqueTransitiveChildren="3" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" Label="corecrt_memcpy_s.h" Background="#FFFAFA" NumIncludes="2" NumUniqueTransitiveChildren="2" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h" Label="errno.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h" Label="vcruntime_string.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h" Label="corecrt_wstring.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept" Label="stdexcept" Background="#FFA4A4" NumIncludes="2" NumUniqueTransitiveChildren="34" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" Label="exception" Background="#FFEAEA" NumIncludes="3" NumUniqueTransitiveChildren="8" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\type_traits" Label="type_traits" Background="#FFF7F7" NumIncludes="1" NumUniqueTransitiveChildren="3" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef" Label="xstddef" Background="#FFFAFA" NumIncludes="2" NumUniqueTransitiveChildren="2" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstddef" Label="cstddef" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\initializer_list" Label="initializer_list" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h" Label="malloc.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h" Label="vcruntime_exception.h" Background="#FFFAFA" NumIncludes="1" NumUniqueTransitiveChildren="2" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\eh.h" Label="eh.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h" Label="corecrt_terminate.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring" Label="xstring" Background="#FFBFBF" NumIncludes="1" NumUniqueTransitiveChildren="24" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Label="xmemory0" Background="#FFC1C1" NumIncludes="6" NumUniqueTransitiveChildren="23" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdint" Label="cstdint" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdint.h" Label="stdint.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" Label="limits" Background="#FFD9D9" NumIncludes="3" NumUniqueTransitiveChildren="14" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ymath.h" Label="ymath.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cfloat" Label="cfloat" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h" Label="float.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cwchar" Label="cwchar" Background="#FFE4E4" NumIncludes="1" NumUniqueTransitiveChildren="10" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Label="wchar.h" Background="#FFE7E7" NumIncludes="7" NumUniqueTransitiveChildren="9" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h" Label="corecrt_wconio.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h" Label="corecrt_wctype.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h" Label="corecrt_wdirect.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h" Label="corecrt_wio.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h" Label="corecrt_share.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h" Label="corecrt_wprocess.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h" Label="corecrt_wtime.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h" Label="sys/stat.h" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\types.h" Label="sys/types.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\new" Label="new" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xutility" Label="xutility" Background="#FFFAFA" NumIncludes="1" NumUniqueTransitiveChildren="2" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\utility" Label="utility" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iosfwd" Label="iosfwd" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xatomic0.h" Label="xatomic0.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\intrin0.h" Label="intrin0.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo" Label="typeinfo" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h" Label="vcruntime_typeinfo.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo" Label="xlocinfo" Background="#FFF7F7" NumIncludes="1" NumUniqueTransitiveChildren="3" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h" Label="xlocinfo.h" Background="#FFFAFA" NumIncludes="2" NumUniqueTransitiveChildren="2" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h" Label="ctype.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h" Label="locale.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\memory" Label="memory" Background="#FFFCFC" NumIncludes="1" NumUniqueTransitiveChildren="1" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory" Label="xmemory" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xfacet" Label="xfacet" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" Label="system_error" Background="#FFF7F7" NumIncludes="3" NumUniqueTransitiveChildren="3" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cerrno" Label="cerrno" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xcall_once.h" Label="xcall_once.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xerrc.h" Label="xerrc.h" Background="#FFFFFF" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h" Label="share.h" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\fstream" Label="fstream" Background="#FFFFFF" />
+    <Node Id="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Label="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\" Background="#FFFFFF" Group="Collapsed" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Label="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\" Background="#FFFFFF" Group="Collapsed" />
+    <Node Id="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys" Label="sys\" Background="#FFFFFF" Group="Collapsed" />
+    <Node Id="E:\Work\Test\Test" Label="E:\Work\Test\Test\" Background="#FFFFFF" Group="Collapsed" />
+  </Nodes>
+  <Links>
+    <Link Source="E:\Work\Test\Test\Source.cpp" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iostream" />
+    <Link Source="E:\Work\Test\Test\Source.cpp" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\fstream" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iostream" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\istream" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\istream" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ostream" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ostream" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ios" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ios" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdio" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\streambuf" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\use_ansi.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\sal.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vadefs.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\sal.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtr1common" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdio" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\streambuf" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstring" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\memory" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xfacet" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstring" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\type_traits" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\type_traits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstddef" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\initializer_list" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\eh.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\eh.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdint" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\new" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xutility" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xatomic0.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\intrin0.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdint" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdint.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ymath.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cfloat" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cwchar" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cfloat" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cwchar" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\types.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xutility" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\utility" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\utility" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iosfwd" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\memory" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cerrno" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xcall_once.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xerrc.h" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ymath.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdint.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdint" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\eh.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\initializer_list" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstddef" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\type_traits" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstring" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cfloat" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cwchar" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xutility" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xerrc.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xcall_once.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cerrno" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xfacet" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\memory" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\intrin0.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xatomic0.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iosfwd" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\utility" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\new" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\fstream" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vadefs.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\sal.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\streambuf" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtr1common" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdio" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ios" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ostream" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\istream" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iostream" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h" Category="Contains" />
+    <Link Source="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include" Target="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\use_ansi.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\types.h" Category="Contains" />
+    <Link Source="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys" Target="D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h" Category="Contains" />
+    <Link Source="E:\Work\Test\Test" Target="E:\Work\Test\Test\Source.cpp" Category="Contains" />
+  </Links>
+</DirectedGraph>
